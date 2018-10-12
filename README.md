@@ -5,3 +5,6 @@
 ## Homework 1 - Titanic
 	Titanic.ipynb
 	train.csv
+## Homework 2 - Ecommerce (Linear Regression)
+	Linear+Regression+Assignment.ipynb
+	Ecommerce.csv
